@@ -2,7 +2,7 @@
 #  Market. Shop goods. Магазин товаров.
 
 ##  html, ccs(scss), javascript, vue.js + vuetify
-## Link deploy / Ссылка: https://market-shoes.netlify.app.com
+## Link deploy / Ссылка: https://market-shoes.netlify.app
 
 ## Project setup
 ```
