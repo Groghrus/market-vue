@@ -1,0 +1,88 @@
+{
+  "cards": [
+    {
+      "title": "Red sneakers",
+      "id": "itm1",
+      "color": "Красный",
+      "price": 100,
+      "src": "card1.jpg"
+    },
+    {
+      "title": "Green sneakers",
+      "id": "itm2",
+      "color": "Зеленый",
+      "price": 110,
+      "src": "card2.jpg"
+    },
+    {
+      "title": "White sneakers",
+      "id": "itm3",
+      "color": "Белый",
+      "price": 90,
+      "src": "card3.jpg"
+    },
+    {
+      "title": "Blue sneakers",
+      "id": "itm4",
+      "color": "Синий",
+      "price": 120,
+      "src": "card4.jpg"
+    },
+    {
+      "title": "Red sneakers",
+      "id": "itm5",
+      "color": "Красный",
+      "price": 100,
+      "src": "card1.jpg"
+    },
+    {
+      "title": "Green sneakers",
+      "id": "itm6",
+      "color": "Зеленый",
+      "price": 110,
+      "src": "card2.jpg"
+    },
+    {
+      "title": "Red sneakers",
+      "id": "itm7",
+      "color": "Красный",
+      "price": 100,
+      "src": "card1.jpg"
+    },
+    {
+      "title": "Green sneakers",
+      "id": "itm8",
+      "color": "Зеленый",
+      "price": 105,
+      "src": "card2.jpg"
+    },
+    {
+      "title": "White sneakers",
+      "id": "itm9",
+      "color": "Белый",
+      "price": 100,
+      "src": "card3.jpg"
+    },
+    {
+      "title": "Blue sneakers",
+      "id": "itm10",
+      "color": "Синий",
+      "price": 100,
+      "src": "card4.jpg"
+    },
+    {
+      "title": "White sneakers",
+      "id": "itm11",
+      "color": "Белый",
+      "price": 100,
+      "src": "card3.jpg"
+    },
+    {
+      "title": "Blue sneakers",
+      "id": "itm12",
+      "color": "Синий",
+      "price": 100,
+      "src": "card4.jpg"
+    }
+  ]
+}

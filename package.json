@@ -1,0 +1,45 @@
+{
+  "name": "market-vue",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dmitriy Kiselev"
+  },
+  "description": "simple store in vue.js",
+  "private": true,
+  "scripts": {
+    "start": "npm-run-all --parallel json serve",
+    "json": "json-server --watch db.json",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "core-js": "^3.6.4",
+    "register-service-worker": "^1.7.1",
+    "vue": "^2.6.11",
+    "vue-router": "^3.1.6",
+    "vuetify": "^2.3.16",
+    "vuex": "^3.1.3",
+    "npm-run-all": "^4.1.5",
+    "sass-loader": "^8.0.2",
+    "node-sass": "^4.12.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.3.0",
+    "@vue/cli-plugin-pwa": "~4.3.0",
+    "@vue/cli-plugin-router": "~4.3.0",
+    "@vue/cli-plugin-vuex": "~4.3.0",
+    "@vue/cli-service": "~4.3.0",
+    "node-sass": "^4.12.0",
+    "sass": "^1.19.0",
+    "sass-loader": "^8.0.2",
+    "vue-cli-plugin-vuetify": "~2.0.5",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.3.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
